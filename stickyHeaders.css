@@ -1,0 +1,24 @@
+/* needed for the translated header cells & caption */
+thead th,
+caption {
+  background: #fff;
+}
+
+/* demo styles */
+table {
+  background: #fff;
+  margin: 100px auto;
+  width: 100%;
+}
+
+table,
+td,
+th {
+  border: 1px solid #000;
+  border-collapsed: collapsed;
+  padding: 4px;
+}
+
+.spacer {
+  height: 1000px;
+}
